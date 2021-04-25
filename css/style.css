@@ -134,7 +134,7 @@ body {
             flex-direction: row;
   }
   .container .wrap .card {
-    max-width: 300px;
+    max-width: 270px;
     font-size: 0.8rem;
   }
   .container .wrap .card_button {
@@ -152,7 +152,7 @@ body {
 
 @media screen and (min-width: 950px) {
   .container .wrap .card {
-    font-size: 0.97rem;
+    font-size: 0.87rem;
   }
 }
 
